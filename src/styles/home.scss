@@ -1,0 +1,54 @@
+
+ 
+.photo{
+    float: right;
+    
+    box-sizing:border-box;
+    width:40%;
+    height:250px;
+    display: inline-block;
+    padding-left: 160px;
+    position: relative;
+    flex: content;
+
+}
+#home{
+    width: 100;
+    height: 200px;
+    padding-left: 30px;
+    
+}
+.word{
+    color: yellow;
+    font-size: 15px;
+    padding: 60px;
+    width:60%;
+    float:left;
+    line-height: 50px;
+   
+    height:440px
+
+   
+   
+}
+button{
+    font-size: 20px;
+    border:2px solid blueviolet;
+    border-radius: 20px;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.block{
+    
+    height: 445px;
+}
+.timeline{
+    padding-top: 150px;
+
+    >h1{
+        color: green;
+        text-align: center;
+    }
+}
