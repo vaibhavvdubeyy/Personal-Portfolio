@@ -29,22 +29,13 @@ const Services = () => {
                 <div class="wrap-price">
                     <div class="price-innerdetail text-center">
                         
-                        <img src={frontend} alt="profile" /><br/><br/>
-                        <h5>Front-End Development</h5>
-                        <p class="prices">RS 5000</p>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Photoshoot duration </span>
-                            <span class="float-right">4 Hours</span>
-                        </div>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Number photo</span>
-                            <span class="float-right">50 - 200</span>
-                        </div>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Consultation</span>
-                            <span class="float-right">Style</span>
-                        </div>
-                        <a href="#" class="btn btn-secondary mt-5">Buy Now</a>
+                        <img src={frontend} alt="profile" /><br/><br/><br/>
+                        <h5 style={{color:"white"}}>Front-End Development</h5><br/><br/>
+                        
+                        <p>Get complete design for your Website.</p>
+                        <p>Free Service for first 15 days.</p>
+                        <p>No fixed cost. Pay as per requirements!</p>
+                        <a href="#" class="btn btn-secondary mt-5">Contact Now</a>
                     </div>
                 </div>
             </div>
@@ -52,21 +43,11 @@ const Services = () => {
                 <div class="wrap-price center-wrap">
                     <div class="price-innerdetail text-center">
                     <img src={backend} alt="profile" /><br/><br/>
-                        <h5>Back-End Development</h5>
-                        <p class="prices">RS 8000</p>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Photoshoot duration </span>
-                            <span class="float-right">4 Hours</span>
-                        </div>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Number photo</span>
-                            <span class="float-right">50 - 200</span>
-                        </div>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Consultation</span>
-                            <span class="float-right">Style</span>
-                        </div>
-                        <a href="#" class="btn btn-secondary mt-5">Buy Now</a>
+                        <h5 style={{color:"white"}}>Back-End Development</h5><br/><br/>
+                        <p>Get complete Backend for your Website.</p>
+                        <p>Free Service for first 15 days.</p>
+                        <p>No fixed cost. Pay as per requirements!</p>
+                        <a href="#" class="btn btn-secondary mt-5">Contact Now</a>
                     </div>
                 </div>
             </div>
@@ -74,22 +55,12 @@ const Services = () => {
                 <div class="wrap-price">
                     <div class="price-innerdetail text-center">
                     <img src={fullstack} alt="profile" /><br/><br/>
-                        <h5>Full-Stack Development</h5>
+                        <h5 style={{color:"white"}}>Full-Stack Development</h5><br/><br/>
 
-                        <p class="prices">RS 12000</p>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Photoshoot duration </span>
-                            <span class="float-right">4 Hours</span>
-                        </div>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Number photo</span>
-                            <span class="float-right">50 - 200</span>
-                        </div>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Consultation</span>
-                            <span class="float-right">Style</span>
-                        </div>
-                        <a href="#" class="btn btn-secondary mt-5">Buy Now</a>
+                        <p>Get fully deployed Website for your organization.</p>
+                        <p>Free Service for first 15 days.</p>
+                        <p>No fixed cost. Pay as per requirements!</p>
+                        <a href="#" class="btn btn-secondary mt-5">Contact Now</a>
                     </div>
                 </div>
             </div>
@@ -105,66 +76,39 @@ const Services = () => {
                     <div class="price-innerdetail text-center">
                         
                         <div className="photu"><img src={equity} alt="profile" /></div><br/><br/>
-                        <h5>Equity Investments</h5>
+                        <h5 style={{color:"white"}}>Equity Investments</h5><br/><br/>
                         <p class="prices">RS 1000/ Month</p>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Photoshoot duration </span>
-                            <span class="float-right">4 Hours</span>
-                        </div>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Number photo</span>
-                            <span class="float-right">50 - 200</span>
-                        </div>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Consultation</span>
-                            <span class="float-right">Style</span>
-                        </div>
-                        <a href="#" class="btn btn-secondary mt-5">Buy Now</a>
+                        <p>Get weekly and monthly Stock Recommendations.</p>
+                        <p>Know about the news and sentiments of market.</p>
+                        <p>Get the daily analysis of the market!</p>
+                        <a href="#" class="btn btn-secondary mt-5">Contact Now</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 pb-5 pb-lg-0">
                 <div class="wrap-price center-wrap">
                     <div class="price-innerdetail text-center">
-                    <img src={mutualfund} alt="profile" /><br/><br/>
-                        <h5>Mutual Fund Investments</h5>
-                        <p class="prices">RS 500/ Month</p>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Photoshoot duration </span>
-                            <span class="float-right">4 Hours</span>
-                        </div>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Number photo</span>
-                            <span class="float-right">50 - 200</span>
-                        </div>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Consultation</span>
-                            <span class="float-right">Style</span>
-                        </div>
-                        <a href="#" class="btn btn-secondary mt-5">Buy Now</a>
+                    <img src={mutualfund} alt="profile" /><br/><br/><br/>
+                        <h5 style={{color:"white"}}>Mutual Fund Investments</h5><br/><br/>
+                        <p class="prices">RS 500</p>
+                        <p>Get 5 Mutual Fund Recommendation based on your profile. </p>
+                        <p>Get the market news and sentiments.</p>
+                        <p>Get the investing in and getting out strategy.</p>
+                        <a href="#" class="btn btn-secondary mt-5">Contact Now</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 pb-5 pb-lg-0">
                 <div class="wrap-price">
                     <div class="price-innerdetail text-center">
-                    <img src={safer} alt="profile" /><br/><br/>
-                        <h5>Safer Investments</h5>
+                    <img src={safer} alt="profile" /><br/><br/><br/>
+                        <h5 style={{color:"white"}}>Safer Investments</h5><br/><br/>
 
-                        <p class="prices">RS 300/ Month</p>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Photoshoot duration </span>
-                            <span class="float-right">4 Hours</span>
-                        </div>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Number photo</span>
-                            <span class="float-right">50 - 200</span>
-                        </div>
-                        <div class="detail-pricing">
-                            <span class="float-left"> <i class="bi bi-check2-circle"></i> Consultation</span>
-                            <span class="float-right">Style</span>
-                        </div>
-                        <a href="#" class="btn btn-secondary mt-5">Buy Now</a>
+                        <p class="prices">RS 300</p>
+                        <p>Get list of banks with high FD returns.</p>
+                        <p>Get 3 Liquid fund recommendation to increase returns.</p>
+                        <p>Get 3 alternate to FD to increase your returns.</p>
+                        <a href="#" class="btn btn-secondary mt-5">Contact Now</a>
                     </div>
                 </div>
             </div>
