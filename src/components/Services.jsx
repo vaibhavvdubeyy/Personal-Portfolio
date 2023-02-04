@@ -35,7 +35,7 @@ const Services = () => {
                         <p>Get complete design for your Website.</p>
                         <p>Free Service for first 15 days.</p>
                         <p>No fixed cost. Pay as per requirements!</p>
-                        <a href="#" class="btn btn-secondary mt-5">Contact Now</a>
+                        <a href="https://wa.link/pn73nx" class="btn btn-secondary mt-5">Contact Now</a>
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@ const Services = () => {
                         <p>Get complete Backend for your Website.</p>
                         <p>Free Service for first 15 days.</p>
                         <p>No fixed cost. Pay as per requirements!</p>
-                        <a href="#" class="btn btn-secondary mt-5">Contact Now</a>
+                        <a href="https://wa.link/83rr47" class="btn btn-secondary mt-5">Contact Now</a>
                     </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@ const Services = () => {
                         <p>Get fully deployed Website for your organization.</p>
                         <p>Free Service for first 15 days.</p>
                         <p>No fixed cost. Pay as per requirements!</p>
-                        <a href="#" class="btn btn-secondary mt-5">Contact Now</a>
+                        <a href="https://wa.link/xdpa4u" class="btn btn-secondary mt-5">Contact Now</a>
                     </div>
                 </div>
             </div>
@@ -81,7 +81,7 @@ const Services = () => {
                         <p>Get weekly and monthly Stock Recommendations.</p>
                         <p>Know about the news and sentiments of market.</p>
                         <p>Get the daily analysis of the market!</p>
-                        <a href="#" class="btn btn-secondary mt-5">Contact Now</a>
+                        <a href="https://wa.link/1pxfxv" class="btn btn-secondary mt-5">Contact Now</a>
                     </div>
                 </div>
             </div>
@@ -94,7 +94,7 @@ const Services = () => {
                         <p>Get 5 Mutual Fund Recommendation based on your profile. </p>
                         <p>Get the market news and sentiments.</p>
                         <p>Get the investing in and getting out strategy.</p>
-                        <a href="#" class="btn btn-secondary mt-5">Contact Now</a>
+                        <a href="https://wa.link/rj6cgz" class="btn btn-secondary mt-5">Contact Now</a>
                     </div>
                 </div>
             </div>
@@ -108,7 +108,7 @@ const Services = () => {
                         <p>Get list of banks with high FD returns.</p>
                         <p>Get 3 Liquid fund recommendation to increase returns.</p>
                         <p>Get 3 alternate to FD to increase your returns.</p>
-                        <a href="#" class="btn btn-secondary mt-5">Contact Now</a>
+                        <a href="https://wa.link/e8f4cl" class="btn btn-secondary mt-5">Contact Now</a>
                     </div>
                 </div>
             </div>
