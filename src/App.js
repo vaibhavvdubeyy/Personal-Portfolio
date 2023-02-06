@@ -12,7 +12,7 @@ const App = () => {
     <>
      
     <Navbar/>
-    <HashRouter>
+    
       <Routes>
       <Route path="/" element={<Home />}/>
       <Route path="/Personal-Portfolio" element={<Home />}/>
@@ -20,7 +20,7 @@ const App = () => {
        <Route path="/Contact" element={<Contact />}/>
        <Route path="/Testimonials" element={<Testimonials />}/>
        </Routes>
-    </HashRouter>
+    
     </>
     
   )
