@@ -1,4 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/home              /
-/Services  /Contact
-/Testimonials /Personal-Portfolio
+/*    /Services   200 
